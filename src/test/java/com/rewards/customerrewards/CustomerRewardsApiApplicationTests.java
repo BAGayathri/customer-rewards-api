@@ -1,4 +1,4 @@
-package com.rewards.customer_rewards_api;
+package com.rewards.customerrewards;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

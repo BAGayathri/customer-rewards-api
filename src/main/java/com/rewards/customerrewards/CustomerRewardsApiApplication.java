@@ -1,4 +1,4 @@
-package com.rewards.customer_rewards_api;
+package com.rewards.customerrewards;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
