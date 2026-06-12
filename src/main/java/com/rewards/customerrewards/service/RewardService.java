@@ -28,7 +28,7 @@ public class RewardService {
         this.transactionRepository=transactionRepository;
     }
 
-    private int calculateRewardPoints(double amount)
+    public int calculateRewardPoints(double amount)
     {
         if(amount<=50)
             return 0;
